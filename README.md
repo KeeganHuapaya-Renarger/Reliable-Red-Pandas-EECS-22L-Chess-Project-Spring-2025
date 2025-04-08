@@ -1,5 +1,6 @@
 # Reliable-Red-Pandas-EECS-22L-Chess-Project-Spring-2025
 Format below:
+
 Name    Lastname              ID#        Github Username
 
 Andrei   Ignatov              85704247   Github (To be determined)
