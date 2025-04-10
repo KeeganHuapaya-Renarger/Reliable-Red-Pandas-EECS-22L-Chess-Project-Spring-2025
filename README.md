@@ -2,7 +2,7 @@
 **Team Members:**
 |  First  |      Last      |   ID #   |   Github Username   |
 |---------|----------------|----------|---------------------|
-|  Andrei  |      Ignatov      |   85704247   |   Github (To be determined)   |
+|  Andrei  |      Ignatov      |   85704247   |   andreignatov   |
 |  Eamonn  |      Martin      |   39738212   |   Github (To be determined)   |
 |  Flourish  |      Alozie      |   56837571   |   Github (To be determined)   |
 |  Hailey  |      Williams      |   58854149   |   haileyheeji   |
