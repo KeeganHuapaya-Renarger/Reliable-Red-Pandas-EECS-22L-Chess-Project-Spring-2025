@@ -3,7 +3,7 @@
 |  First  |      Last      |   ID #   |   Github Username   |
 |---------|----------------|----------|---------------------|
 |  Andrei  |      Ignatov      |   85704247   |   andreignatov   |
-|  Eamonn  |      Martin      |   39738212   |   Github (To be determined)   |
+|  Eamonn  |      Martin      |   39738212   |   Eamonnrm   |
 |  Flourish  |      Alozie      |   56837571   |   Github (To be determined)   |
 |  Hailey  |      Williams      |   58854149   |   haileyheeji   |
 |  Keegan  |      Huapaya-Renbarger      |   66294174   |   KeeganHuapaya-Renbarger   |
