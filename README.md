@@ -8,4 +8,4 @@
 |  Hailey  |      Williams      |   58854149   |   haileyheeji   |
 |  Keegan  |      Huapaya-Renbarger      |   66294174   |   KeeganHuapaya-Renbarger   |
 |  Radin  |      Ahmadizadeh      |   58112964  |   Github (To be determined)   |
-|  Sneha  |      Sadhwani      |   82959017   |   Github (To be determined)   |
+|  Sneha  |      Sadhwani      |   82959017   |   sneha-byte   |
